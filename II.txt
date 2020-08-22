@@ -1,0 +1,5 @@
+1.  pour trouver le nombre de cas par pays on doit faire des groupes par pays puis en prenant l'attribut total_cases on fait la somme.
+
+2.  pour trouver le plus grand nombre de nouveaux cas on fait les groupements par pays puis on selectionne le plus grand nombre de nouveaux cas.
+
+3.  

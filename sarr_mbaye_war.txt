@@ -1,0 +1,19 @@
+1.
+nom : kane
+prenom : khalifa
+email : mbaye.ababacar10@gmail.com
+
+2. 
+
+nom : sarr	
+prenom : mouhamadou lamine
+email : mlsnaby@gmail.com
+
+3.
+
+nom : war
+prenom : magatte
+email : magattewar@gmail.com
+tel : 77 444 43 43
+
+
